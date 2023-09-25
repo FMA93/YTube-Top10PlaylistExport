@@ -1,0 +1,10 @@
+# Requirements.txt
+
+# Pytube for YouTube video extraction
+pytube==11.0.1
+
+# Pandas for data manipulation
+pandas==1.3.3
+
+# Openpyxl for Excel file handling
+openpyxl==3.0.7
